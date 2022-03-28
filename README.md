@@ -13,6 +13,7 @@ The following required functionality is completed:
 - [x] User can view real-time ETH / Etheurem equivalent price of Bitcoin.
 - [x] User can view real-time USD / United States Dollar equivalent price of Bitcoin.
 - [x] User can view real-time AUD / Australian Dollar equivalent price of Bitcoin.
+- [x] User can view the latest time of update in Month, Year, Hours, Mintues, and Seconds.
 
 # Outcome
 Here's a outcome of implemented user stories:
