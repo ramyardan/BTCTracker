@@ -7,7 +7,7 @@ Bitcoin exchange rates are displayed against Ethereum, United States Dollars,and
 Time spent: 4 hours spent in total
 
 # User Stories
-The following required functionality is completed:
+The following functionalities are completed:
 
 - [x] User can view real-time BTC / Bitcoin price. 
 - [x] User can view real-time ETH / Etheurem equivalent price of Bitcoin.
