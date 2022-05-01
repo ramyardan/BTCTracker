@@ -2,7 +2,7 @@
 
 CryptoTracker is an iOS mobile app that allows users to receive real time exchange rates for the largest cryptocurrency, Bitcoin. 
 
-Bitcoin exchange rates are displayed against Ethereum, United States Dollars,and Australian Dollars by decoding JSON pulled from Coin Geckos API.
+Bitcoin exchange rates are displayed against Ethereum, United States Dollars, and Australian Dollars by decoding JSON pulled from Coin Geckos API.
 
 # User Stories
 The following functionalities are completed:
